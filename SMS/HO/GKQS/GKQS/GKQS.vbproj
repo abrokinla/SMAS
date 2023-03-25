@@ -1,0 +1,799 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D6F7BED1-FCBA-489D-9C46-AD4DB6E2B7C5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>GKQS.My.MyApplication</StartupObject>
+    <RootNamespace>GKQS</RootNamespace>
+    <AssemblyName>GKQS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\Seyi\Desktop\GKQS SYSTEM\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <TargetCulture>en</TargetCulture>
+    <ProductName>GKQS SCHOOL MANA SYSTEM</ProductName>
+    <PublisherName>GeekCodetm</PublisherName>
+    <SuiteName>SMS</SuiteName>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>7</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>GKQS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>GKQS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icons\favicon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>FFF8BB1005152E3B84930B776AD02B54AA1CD033</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>GKQS_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.Designer.vb">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutBox1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBControl.vb" />
+    <Compile Include="frmEditPayment.Designer.vb">
+      <DependentUpon>frmEditPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEditPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEditPayment1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>frmEditPayment.resx</DependentUpon>
+    </Compile>
+    <Compile Include="frmExecLogin.Designer.vb">
+      <DependentUpon>frmExecLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmExecLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPayFees.Designer.vb">
+      <DependentUpon>frmPayFees.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPayFees.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDailySales.Designer.vb">
+      <DependentUpon>frmDailySales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDailySales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOutstanding.Designer.vb">
+      <DependentUpon>frmOutstanding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOutstanding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintReciept.Designer.vb">
+      <DependentUpon>frmPrintReciept.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintReciept.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAssets.Designer.vb">
+      <DependentUpon>frmAssets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAssets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExpenditure.Designer.vb">
+      <DependentUpon>frmExpenditure.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmExpenditure.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLock.Designer.vb">
+      <DependentUpon>frmLock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPayroll.Designer.vb">
+      <DependentUpon>frmPayroll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPayroll.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReceipt.Designer.vb">
+      <DependentUpon>frmReceipt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReceipt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReport.Designer.vb">
+      <DependentUpon>frmReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReprint.Designer.vb">
+      <DependentUpon>frmReprint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReprint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResultEdit.Designer.vb">
+      <DependentUpon>frmResultEdit.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmResultEdit.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmResults.Designer.vb">
+      <DependentUpon>frmResults.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmResults.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSalaries.Designer.vb">
+      <DependentUpon>frmSalaries.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSalaries.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSales.Designer.vb">
+      <DependentUpon>frmSales.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSearchStudent.Designer.vb">
+      <DependentUpon>frmSearchStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSearchStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSettings.Designer.vb">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentSummary.Designer.vb">
+      <DependentUpon>frmStudentSummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdate.Designer.vb">
+      <DependentUpon>frmUpdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStockSum.Designer.vb">
+      <DependentUpon>frmStockSum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStockSum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInventory.Designer.vb">
+      <DependentUpon>frmInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAccountingSystem.Designer.vb">
+      <DependentUpon>frmAccountingSystem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAccountingSystem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewStaff.Designer.vb">
+      <DependentUpon>frmNewStaff.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewStaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewStudent.Designer.vb">
+      <DependentUpon>frmNewStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNewsUpdate.Designer.vb">
+      <DependentUpon>frmNewsUpdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmNewsUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffSearch.Designer.vb">
+      <DependentUpon>frmStaffSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStudentProfile.Designer.vb">
+      <DependentUpon>frmStudentProfile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmStudentProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTrial.Designer.vb">
+      <DependentUpon>frmTrial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTrial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdateOutstanding.Designer.vb">
+      <DependentUpon>frmUpdateOutstanding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdateOutstanding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GKQSDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GKQSDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PrinterClass.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAssets.resx">
+      <DependentUpon>frmAssets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDailySales.resx">
+      <DependentUpon>frmDailySales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEditPayment.resx">
+      <DependentUpon>frmEditPayment.vb</DependentUpon>
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>frmEditPayment1.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExecLogin.resx">
+      <DependentUpon>frmExecLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExpenditure.resx">
+      <DependentUpon>frmExpenditure.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLock.resx">
+      <DependentUpon>frmLock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOutstanding.resx">
+      <DependentUpon>frmOutstanding.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPayFees.resx">
+      <DependentUpon>frmPayFees.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPayroll.resx">
+      <DependentUpon>frmPayroll.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintReciept.resx">
+      <DependentUpon>frmPrintReciept.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReceipt.resx">
+      <DependentUpon>frmReceipt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReport.resx">
+      <DependentUpon>frmReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReprint.resx">
+      <DependentUpon>frmReprint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResultEdit.resx">
+      <DependentUpon>frmResultEdit.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmResults.resx">
+      <DependentUpon>frmResults.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSalaries.resx">
+      <DependentUpon>frmSalaries.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSales.resx">
+      <DependentUpon>frmSales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSearchStudent.resx">
+      <DependentUpon>frmSearchStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSettings.resx">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentSummary.resx">
+      <DependentUpon>frmStudentSummary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdate.resx">
+      <DependentUpon>frmUpdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStockSum.resx">
+      <DependentUpon>frmStockSum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInventory.resx">
+      <DependentUpon>frmInventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAccountingSystem.resx">
+      <DependentUpon>frmAccountingSystem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewStaff.resx">
+      <DependentUpon>frmNewStaff.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewStudent.resx">
+      <DependentUpon>frmNewStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNewsUpdate.resx">
+      <DependentUpon>frmNewsUpdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffSearch.resx">
+      <DependentUpon>frmStaffSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStudentProfile.resx">
+      <DependentUpon>frmStudentProfile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTrial.resx">
+      <DependentUpon>frmTrial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdateOutstanding.resx">
+      <DependentUpon>frmUpdateOutstanding.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptAccounting.rdlc" />
+    <EmbeddedResource Include="rptDebtors.rdlc" />
+    <EmbeddedResource Include="rptPayroll.rdlc" />
+    <EmbeddedResource Include="rptStaff.rdlc" />
+    <EmbeddedResource Include="rptStudent.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="GKQSDataSet.xsc">
+      <DependentUpon>GKQSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="GKQSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>GKQSDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="GKQSDataSet.xss">
+      <DependentUpon>GKQSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\logo gkq.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-cash-in-hand-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-student-male-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-view-details-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-books-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-drill-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-checklist-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-technical-support-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-online-money-transfer-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-face-id-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-debt-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-receipt-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-accounting-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-add-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-bank-building-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\icons8-add-shopping-cart-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\payment_history_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\budget_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\general_ledger_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\payroll_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\shopping_cart_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\shopping_cart_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\cash_in_hand_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\in_inventory_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\company_assets__100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\receipt_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\brief_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\save_16px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\save_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\task_planning_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\test_passed_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\student_male_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\accounting_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\overtime_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\library_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\add_user_male_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <Content Include="GKQS.accdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="GKQS_Backup.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icons8_school.ico" />
+    <Content Include="Icons\favicon.ico" />
+    <Content Include="Icons\LOGO.bmp" />
+    <Content Include="Icons\LOGO.jpg" />
+    <Content Include="LOGO.bmp" />
+    <Content Include="LOGO.png" />
+    <None Include="Images\divider.BMP" />
+    <None Include="Images\frontpage.JPG" />
+    <None Include="Images\IMAGE SLIDE\frontpage.JPG" />
+    <Content Include="Images\SCHOOL LOGO.png" />
+    <None Include="Images\sign.bmp" />
+    <None Include="Images\box.BMP" />
+    <None Include="Images\F.BMP" />
+    <Content Include="Images\LOGO.jpg" />
+    <Content Include="Images\LOGO.png" />
+    <None Include="Images\School Header.JPG" />
+    <None Include="Icons\user_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="GKQS.accdb">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="GKQS.pdb">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="GKQS.xml">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="Icons\favicon.ico">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="Icons\LOGO.bmp">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="Icons\LOGO.jpg">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="Images\LOGO.png">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.Common">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.DataVisualization">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.ProcessingObjectModel">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.ReportViewer.WinForms">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.SqlServer.Types">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.VisualBasic.PowerPacks">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+    <PublishFile Include="Microsoft.VisualBasic.PowerPacks.xml">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

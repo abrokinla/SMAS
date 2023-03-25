@@ -1,0 +1,181 @@
+E:\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.accdb
+E:\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.exe.config
+E:\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.exe.manifest
+E:\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.application
+E:\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.exe
+E:\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.pdb
+E:\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.xml
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.AboutBox1.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmAssets.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmDailySales.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmExpenditure.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmLock.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmOutstanding.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmPayFees.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmPayroll.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmPrintReciept.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmRes.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmResultExamJnr.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmResultMidJnr.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSalaries.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSales.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSearchStudent.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSettings.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmUpdate.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStockSum.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmInventory.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmLogin.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmAccountingSystem.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmFees.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmMain.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmNewStaff.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmNewStudent.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmNewsUpdate.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStaffSearch.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStudentProfile.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmTrial.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.Resources.resources
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.vbproj.GenerateResource.Cache
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.exe.manifest
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.application
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.exe
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.xml
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.pdb
+E:\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.vbprojResolveAssemblyReference.cache
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.vbprojResolveAssemblyReference.cache
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.exe
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.xml
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.pdb
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.accdb
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.exe.config
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.exe.manifest
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.application
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.exe
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.pdb
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.xml
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.AboutBox1.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmAssets.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmDailySales.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmExpenditure.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmLock.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmOutstanding.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmPayFees.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmPayroll.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmPrintReciept.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmRes.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmResultExamJnr.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmResultMidJnr.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSalaries.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSales.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSearchStudent.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSettings.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmUpdate.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStockSum.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmInventory.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmLogin.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmAccountingSystem.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmMain.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmNewStaff.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmNewStudent.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmNewsUpdate.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStaffSearch.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStudentProfile.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmTrial.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.Resources.resources
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.vbproj.GenerateResource.Cache
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.exe.manifest
+C:\Users\Seyi\Desktop\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.application
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.accdb
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.exe.config
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.exe.manifest
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.application
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.exe
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.pdb
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS.xml
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.vbprojResolveAssemblyReference.cache
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.AboutBox1.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmAssets.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmDailySales.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmExpenditure.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmLock.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmOutstanding.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmPayFees.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmPayroll.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmPrintReciept.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSalaries.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSales.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSearchStudent.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSettings.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmUpdate.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStockSum.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmInventory.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmLogin.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmAccountingSystem.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmMain.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmNewStaff.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmNewStudent.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmNewsUpdate.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStaffSearch.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStudentProfile.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmTrial.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.Resources.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.vbproj.GenerateResource.Cache
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.exe.manifest
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.application
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.exe
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.xml
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.pdb
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmExecLogin.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmUpdateOutstanding.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmReceipt.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmReprint.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmResults.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmResultEdit.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\RdlCompile.cache
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\RdlCompile.compiled
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmReport.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmEditPayment.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStudentSummary.resources
+C:\Users\Seyi\Desktop\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\bin\Debug\GKQS_Backup.accdb
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.vbprojResolveAssemblyReference.cache
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.AboutBox1.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmAssets.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmDailySales.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmEditPayment.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmExecLogin.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmExpenditure.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmLock.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmOutstanding.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmPayFees.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmPayroll.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmPrintReciept.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmReceipt.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmReport.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmReprint.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmResultEdit.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmResults.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSalaries.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSales.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSearchStudent.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmSettings.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStudentSummary.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmUpdate.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStockSum.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmInventory.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmLogin.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmAccountingSystem.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmMain.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmNewStaff.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmNewStudent.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmNewsUpdate.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStaffSearch.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmStudentProfile.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmTrial.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.frmUpdateOutstanding.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.Resources.resources
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.vbproj.GenerateResource.Cache
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\RdlCompile.cache
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\RdlCompile.compiled
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.exe
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.xml
+C:\Users\jonh\Desktop\GKQ DESKTOP MY STUFF\MY STUFF\GKQS SMS\SMS\HO\GKQS\GKQS\obj\Debug\GKQS.pdb
